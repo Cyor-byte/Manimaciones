@@ -28,7 +28,3 @@ manim -pql archivo.py NombreDeLaEscena
 La opción `-p` abre el video al terminar y `-ql` renderiza en baja calidad, muy útil para ir probando. Para la versión final usá `-qh` (alta calidad, 1080p) o `-qk` (4K).
  
 Los videos se generan en la carpeta `media/`, que no se incluye en el repositorio.
- 
-## Contribuciones
- 
-Las sugerencias y mejoras son bienvenidas. Podés abrir un *issue* o enviar un *pull request*.
