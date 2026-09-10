@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/2040185254_2671429398_223132457.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2408024828_3848831429.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_4073779494_161749218.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2408024828_4026793866.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_1952040711_988438956.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2408024828_4237006864.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2051545602_3404274717.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2408024828_1512553853.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_384422536_4187517866.mp4'
+file 'file:C:/Users/alvar/manimations/media/videos/Haaland_Messi/1920p60/partial_movie_files/GolesAsistencias/3898890344_2408024828_4071227583.mp4'
